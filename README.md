@@ -1,2 +1,2 @@
 # Study
-intro learning 
+This is my first attempt at github. 
